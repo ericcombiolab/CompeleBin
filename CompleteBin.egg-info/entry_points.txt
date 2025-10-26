@@ -1,0 +1,3 @@
+[console_scripts]
+completebin = CompleteBin.cli:main
+
